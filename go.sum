@@ -14,8 +14,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
-github.com/vulncheck-oss/go-exploit v1.21.0 h1:ElTGOPT2I1KhlfzP9rPby6gRT33xANBz52TaMj/sdQM=
-github.com/vulncheck-oss/go-exploit v1.21.0/go.mod h1:Yfmqk+9owcX0PCIDcCR+AWeHxzeXVRs98RlX68FGLHY=
+github.com/vulncheck-oss/go-exploit v1.21.1 h1:aXG5hA+jHMbqqPn4zyGnIVd0ZaZUH5BWxQ/n8o7VX/4=
+github.com/vulncheck-oss/go-exploit v1.21.1/go.mod h1:Yfmqk+9owcX0PCIDcCR+AWeHxzeXVRs98RlX68FGLHY=
 golang.org/x/mod v0.17.0 h1:zY54UmvipHiNd+pm+m0x9KhZ9hl1/7QNMyxXbc6ICqA=
 golang.org/x/mod v0.17.0/go.mod h1:hTbmBsO62+eylJbnUtE2MGJUyE7QWk4xUqPFrRgJ+7c=
 golang.org/x/net v0.27.0 h1:5K3Njcw06/l2y9vpGCSdcxWOYHOUk3dVNGDXN+FvAys=
